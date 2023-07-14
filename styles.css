@@ -1,0 +1,36 @@
+h1 {
+    background: red;
+}
+
+h2 {
+    background: yellow;
+}
+
+.par1 {
+    background-color: aqua;
+    font-size: 24pt;
+    color:beige;
+}
+
+.par2 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Courier New;
+}
+
+.par3 {
+    border: 8px solid gray;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+.par4 {
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    text-shadow: 2px 2px green;  
+    font-family: Courier New;
+}
